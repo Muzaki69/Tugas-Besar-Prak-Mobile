@@ -9,11 +9,8 @@ Muzaki Ahmad Ramdi 2106060
 Hopid Saparudin 2106089
 
 
-
 **Tampilan Apk Bacaan Solat**
 
-
-Tampilan Pertama Apk Cuaca
 
 ![GAMBAR 1](https://github.com/Muzaki69/Tugas-Besar-Prak-Mobile/blob/main/flutter_02.png)
 
