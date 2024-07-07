@@ -15,10 +15,7 @@ Hopid Saparudin 2106089
 
 Tampilan Pertama Apk Cuaca
 
-![GAMBAR 1](https://github.com/Muzaki69/Tugas-Besar-Prak-Mobile/blob/main/flutter_01.png)
-
-
-![GAMBAR 2](https://github.com/Muzaki69/Tugas-Besar-Prak-Mobile/blob/main/flutter_02.png)
+![GAMBAR 1](https://github.com/Muzaki69/Tugas-Besar-Prak-Mobile/blob/main/flutter_02.png)
 
 
 
